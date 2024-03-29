@@ -14,7 +14,7 @@ Follow these steps:
 
 1. **Clone the repo**
 
-``git clone git@github.com:dipendrapant/CAMHS_Readmission_Analytics.git``
+``git clone [git@github.com:dipendrapant/CAMHS_Readmission_Analytics.git](https://github.com/KchKaban/CAMHS_Readmission_Analytics.git)``
 
 ``cd CAMHS_Readmission_Analytics``
 
